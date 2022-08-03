@@ -35,25 +35,20 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
+            - company_name: Manufacton
+              company_logo: manufacton.png
+              company_url: https://manufacton.com
               designation: Software Engineer
-              description: Worked on various Google Products
+              description: Currently working on building Manufacton
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
+  
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
+              - college_logo: vsm.png
+                college_name: VSM College of Enginnering 
+                college_url: https://www.vsm.edu.in/
+                college_degree: Electric Electronics Engineer
                 description: Bachelor of Technology
                 visibility: true
 
